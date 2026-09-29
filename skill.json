@@ -1,0 +1,20 @@
+{
+  "name": "genpark-adaptive-retrieval-router-skill",
+  "version": "1.0.0",
+  "description": "Adaptive RAG retrieval routing classifier directing queries across direct LLM, single-hop, and multi-hop RAG",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "adaptive-rag",
+    "query-router",
+    "agentic-rag",
+    "decision-engine",
+    "semantic-routing",
+    "python-standard-library",
+    "agent-skills",
+    "multi-hop",
+    "llm-architecture",
+    "context-engineering"
+  ]
+}
