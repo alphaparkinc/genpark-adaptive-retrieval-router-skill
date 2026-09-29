@@ -1,0 +1,6 @@
+name: genpark-adaptive-retrieval-router-skill
+version: 1.0.0
+description: Adaptive RAG retrieval routing classifier directing queries across direct LLM, single-hop, and multi-hop RAG
+command: python
+args:
+  - mcp_server.py
